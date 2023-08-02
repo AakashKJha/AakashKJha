@@ -1,6 +1,6 @@
 # Aakash Kumar - GitHub Profile
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-coderaakash-blue)](https://www.linkedin.com/in/imaakashjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imaakashjha-blue)](https://www.linkedin.com/in/imaakashjha)
 [![Email](https://img.shields.io/badge/Email-aakashkumar2001jha%40gmail.com-red)](mailto:aakashkumar2001jha@gmail.com)
 [![Personal Website](https://img.shields.io/badge/Website-find--aakash.web.app-green)](https://find-aakash.web.app)
 
@@ -59,6 +59,7 @@ For movie enthusiasts, I developed a recommendation system using Python and the 
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me via email at aakashkumar2001jha@gmail.com or connect with me on LinkedIn. You can also explore my personal website at [(https://img.shields.io/badge/Website-find--aakash.web.app-green)](https://find-aakash.web.app)
+Feel free to reach out to me via email at aakashkumar2001jha@gmail.com or connect with me on LinkedIn. You can also explore my personal website at [![Personal Website](https://img.shields.io/badge/find--aakash.web.app-green)](https://find-aakash.web.app)
+
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
